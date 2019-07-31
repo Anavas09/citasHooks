@@ -1,6 +1,6 @@
 {
-  "name": "react-app-three",
-  "version": "0.1.0",
+  "name": "citas_hooks",
+  "version": "1.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
